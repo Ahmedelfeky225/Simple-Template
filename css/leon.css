@@ -231,10 +231,7 @@ grid-gap: 20px;
 /*End Features*/
 /*Start Services*/
 
-.services{
-padding-top: 60px;
-padding-bottom: 60px;   
-}
+
 .services .service-content{
     display: grid;
     grid-template-columns: repeat(auto-fill , minmax(300px,1fr));
